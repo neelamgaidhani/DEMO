@@ -16,7 +16,10 @@ public class Ass_09 {
 		Ass_09 c=new Ass_09();
 		Ass_09 d=new Ass_09();
 		Ass_09 e=new Ass_09();
+		Ass_09 =mnew Ass_09();
+		
 		System.out.println();
+		
 		getcountobject();
 	}
 
